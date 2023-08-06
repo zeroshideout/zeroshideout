@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zeroshideout
+- 👀 I’m interested in Science, Technology, Politics, Engineering, Business, Art, and Music.
+- 🌱 I’m currently learning JavaScript and PenTest+.
+- 💞️ I’m looking to collaborate on Cybersecurity tools.
+- 📫 How to reach me on Fiverr, Freelancer, and Telegram link to this will be at my profile.
