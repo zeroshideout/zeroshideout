@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeroshideout
 - 👀 I’m interested in Science, Technology, Politics, Engineering, Business, Art, and Music.
-- 🌱 I’m currently learning JavaScript and PenTest+.
+- 🌱 I’m currently learning Security +, Pentest +, and Cisco Certified Network Associate (CCNA).
 - 💞️ I’m looking to collaborate on Cybersecurity tools.
-- 📫 How to reach me for collaborations on Fiverr, Freelancer, and Telegram link to this will be at my profile.
-- For Networking @LinkedIn also at my profile.
+- 📫 How to reach me for collaborations on Fiverr, Freelancer, LinkedIn, and Telegram link to this will be at my profile.
+  
